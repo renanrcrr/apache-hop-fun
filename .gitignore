@@ -1,0 +1,17 @@
+# Logs
+*.log
+
+# Dir
+/config
+/lib
+/licenses
+/plugins
+/pwd
+/static
+/audit
+
+# Files
+hop*
+NO*
+trans*
+
