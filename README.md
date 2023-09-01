@@ -1,6 +1,6 @@
 # Apache Hop
 
-## This repository refers a deep study with orchestration
+## This repository refers a deep study about orchestration
 
 **APACHE HOP** is an abbreviation for the Hop Orchestration Platform, a data orchestration and data engineering platform designed to streamline all facets of data and metadata orchestration. As a default configuration, HOP is equipped with approximately 400 plugins or components.
 
@@ -19,3 +19,5 @@ Within APACHE HOP, numerous tasks can be executed, including the orchestration o
 We encourage you to embark on your journey of discovery and education in the realm of APACHE HOP.
 
 Join the ranks of this thriving community of professionals who continuously expand their knowledge and capabilities.
+
+**Note**: The csv data file was got from teacher Grimaldo Oliveira.
