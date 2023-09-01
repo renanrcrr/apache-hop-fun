@@ -9,9 +9,9 @@
 /pwd
 /static
 /audit
+/datas
 
 # Files
 hop*
 NO*
 trans*
-
